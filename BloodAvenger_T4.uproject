@@ -16,11 +16,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Landmass",
-			"Enabled": true
-		},
-		{
-			"Name": "Water",
+			"Name": "PCG",
 			"Enabled": true
 		}
 	]
